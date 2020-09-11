@@ -6,7 +6,7 @@ At my current job, we have a Tableau dashboard that shows our progress towards o
 
 ## Goals of the Project
 
-My goal is to create an interactive dashboard that not only shows the progress in goals to date, but also projects what the year-end results would be based on the current trends, and to offer solid data on how to acheive a satisfactory end of year result (e.g. current projected EOY Auto Referrals = 143; Goal Year to date is 200; to meet goal, you would need an extra 3 referrals per week to meet goal, and 5 extra to meet the exceeds category)
+My goal is to create an interactive dashboard that not only shows the progress in goals to date, but also projects what the year-end results would be based on the current trends, and to offer solid data on how to acheive a satisfactory end of year result (e.g. current projected EOY Auto Referrals = 143; Goal Year to date is 200; to meet goal, you would need an extra 3 referrals per week, and 5 extra to meet the exceeds category)
 
 ## Methods
 

@@ -26,6 +26,6 @@ Please note that all the data is completely fictional- any correlation to your o
 
 I created an excel workbook with several tabs, to represent my best guess as to how the company database is set up. I have one table for the basic goals. One thing of note- I know that the MSI scores are recorded separately, but I included them in the main workbook purely for my own convenience. I have another tab for the phone metrics, and a third for the Time management information. I also have a fourth that includes monthly and yearly goals.
 
-For the purposes of this project, I assume today is Sept 15, 2020. This allows me to calculate fields based on the current date, without having to add mmore data to my dataset every day. In real life, the database queries would update based on the actual date.
+For the purposes of this project, I assume today is Sept 15, 2020. This allows me to calculate fields based on the current date, without having to add more data to my dataset every day. In real life, the database queries would update based on the actual date.
 
 The MSI percentage may be calculated within the database, but for the purposes of this project I assumed that only the raw score is included.

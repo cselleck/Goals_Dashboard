@@ -29,3 +29,6 @@ I created an excel workbook with several tabs, to represent my best guess as to 
 For the purposes of this project, I assume today is Sept 15, 2020. This allows me to calculate fields based on the current date, without having to add more data to my dataset every day. In real life, the database queries would update based on the actual date.
 
 The MSI percentage may be calculated within the database, but for the purposes of this project I assumed that only the raw score is included.
+
+To account for business holidays, I downloaded a separate excel file that contains all US holidays, and removed all that did not result in a closure of business. The dataset is through 2099- after that it becomes somebody else's problem.
+

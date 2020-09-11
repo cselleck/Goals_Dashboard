@@ -15,3 +15,5 @@ Obviously, I don't have access to the company's database in the position I curre
 * All numeric values are stored as numbers and not strings.
 * Monthly and annual goals are stored internally and can be referenced by Tableau.
 * Phone metrics and time management are each stored on separate tables, as they originate from different applications.
+
+Please note that all the data is completely fictional- any correlation to your own progress is purely coincidental, and possibly cause for concern.

@@ -30,5 +30,5 @@ For the purposes of this project, I assume today is Sept 15, 2020. This allows m
 
 The MSI percentage may be calculated within the database, but for the purposes of this project I assumed that only the raw score is included.
 
-To account for business holidays, I downloaded a separate excel file that contains all US holidays, and removed all that did not result in a closure of business. The dataset is through 2099- after that it becomes somebody else's problem.
+To account for business holidays, I downloaded a separate excel file that contains all US holidays, and removed all that did not result in a closure of business. The dataset is through 2099- after that it becomes somebody else's problem. This dataset also allowed me to filter for Saturdays and Sundays. Although the business is open on Saturday, the number of hours worked for an employee is always 40- the equivalent of a 5 day work week. For the business days in the month calculations, I excluded the weekends entirely. I did include Saturday sales in my sum calculations.
 

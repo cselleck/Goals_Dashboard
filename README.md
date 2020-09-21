@@ -13,9 +13,9 @@ My goal is to create an interactive dashboard that not only shows the progress i
 Obviously, I don't have access to the company's database in the position I currently have. I created my own dataset in excel, making a few assumptions:
 * The records for my dashboard are the result of a query for my information only; meaning I don't need to separate my results from the team's.
 * The total team results are stored in a discrete table for ease of reporting.
-* Days that contain no MSI (or customer satisfaction surveys) results are represented with a null value.
+* MSI results are stored in a database that does not contain a full date field- rather, it is updated whenever a survey is added with time gaps in the table.
 * Days that contain no sales or referrals are represented with a 0.
-* My Tableau data link is set to extract rather than continuous- I am assuming the reports do not update in real time, but at specific intervals set by internal processes.
+* My Tableau data link is set to continuous- I am assuming the reports refresh when the page is opened, with updates at specific intervals set by internal processes.
 * All numeric values are stored as numbers and not strings.
 * Monthly and annual goals are stored internally and can be referenced by Tableau.
 * Phone metrics and time management are each stored on separate tables, as they originate from different applications.

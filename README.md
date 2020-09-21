@@ -14,6 +14,7 @@ Obviously, I don't have access to the company's database in the position I curre
 * The records for my dashboard are the result of a query for my information only; meaning I don't need to separate my results from the team's.
 * The total team results are stored in a discrete table for ease of reporting.
 * MSI results are stored in a database that does not contain a full date field- rather, it is updated whenever a survey is added with time gaps in the table.
+* I debated whether the MSI database calculates percentage, but for the sake of this project assumed it onlt stored the raw score, and did not calculate a percentage to date.
 * Days that contain no sales or referrals are represented with a 0.
 * My Tableau data link is set to continuous- I am assuming the reports refresh when the page is opened, with updates at specific intervals set by internal processes.
 * All numeric values are stored as numbers and not strings.

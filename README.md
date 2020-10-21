@@ -1,5 +1,7 @@
 # Goals_Dashboard
 
+### See the Dashboard at https://public.tableau.com/profile/clay.selleck#!/vizhome/WorkDashboard_16024956267450/AgentSummary
+
 ## Project Summary
 
 At my current job, we have a Tableau dashboard that shows our progress towards our sales and referral goals. While it is useful, there are some metrics that I feel that would be very useful that are either missing, or displayed in an inefficient manner. This is my attempt to make a dashboard from the user's perspective. In the words of somebody famous that I don't really remember: "Be part of the solution, not part of the problem."
